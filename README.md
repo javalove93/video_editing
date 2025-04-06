@@ -73,6 +73,11 @@ python video_splitter.py /path/to/my_video.mp4 /path/to/timestamps.json
 python video_splitter.py "/path/with spaces/input video.mov" "timestamps.json" --debug
 ```
 
+## 예시 출력 (Example Output)
+
+다음은 스크립트를 실행하여 생성된 샘플 영상입니다. (파일은 저장소 루트에 위치해야 합니다):
+[축구 경기 영상2_edited.mp4](축구%20경기%20영상2_edited.mp4)
+
 ## 주의사항
 
 - 비디오 재인코딩 과정은 시스템 성능에 따라 시간이 소요될 수 있습니다.
